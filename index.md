@@ -1,3 +1,11 @@
-# Welcome to my blog
+# Resume
 
-I'm glad you are here. I plan to talk about ...
+Aaron Jeffrey Sotzen
+
+Skills
+-Primay Languages: Java, C#
+-Secondary Languages: Python, C/C++
+-Operating Systems: Mac OS X, Windows
+
+EXPERIENCE
+
