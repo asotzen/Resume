@@ -11,4 +11,4 @@ skills to increase quality and improve processes.
 # social links
 github_username:  asotzen
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
